@@ -91,10 +91,6 @@ main h3 {
     margin-top: 20px;
 }
 
-.greyBackground{
-   background-color: #b0b0b0;
-}
-
 /* Service Columns */
 .services-container {
     display: flex;
